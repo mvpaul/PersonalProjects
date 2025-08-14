@@ -1,0 +1,2 @@
+This project implements a low-cost, physical-layer authentication system using a laser, photodiode, and microcontroller. By detecting a predefined pulsed light pattern, the Arduino Nano compares the received signal against a stored “key” and grants or denies access accordingly.
+It's a proof-of-concept for optical authentication — useful for lab access control, hardware gating, or educational demos on physical-layer security.
